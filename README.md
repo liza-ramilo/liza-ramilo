@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Python and HTML
+- 👯 I’m looking to collaborate on new projects
+- 🤔 I’m looking for help with learning Python 
+- 💬 Ask me about UX Research and Design 
+- 📫 How to reach me: n/a
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy pen spinning 
 -->
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Python and HTML
+- 👯 I’m looking to collaborate on new projects
+- 🤔 I’m looking for help with learning Python 
+- 💬 Ask me about UX Research and Design 
+- 📫 How to reach me: n/a
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy pen spinning 
