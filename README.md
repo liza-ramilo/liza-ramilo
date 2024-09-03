@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and HTML
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning Python 
-- 💬 Ask me about UX Research and Design 
+- 💬 Ask me about DayZ
 - 📫 How to reach me: n/a
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy pen spinning 
